@@ -1,0 +1,142 @@
+html {
+  width: auto;
+  height: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+body {
+  width: auto;
+  height: auto;
+}
+
+/*****************************
+ * WRAPPER
+ *****************************/
+#gadgetWrapper {
+  width: 250px; /* updated value */
+  background-color: #fff;
+  padding: 1px;
+  font-family: "Lucida Sans", Arial, Helvetica, sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+#gadgetWrapper.wide {
+  width: 420px;
+}
+
+#gadgetWrapper .innerWrap {
+  position: relative;
+  background: #fff9ec;
+  background: linear-gradient(top, #ffffff 0%, #fdefd3 100%);
+	background: -webkit-linear-gradient(top, #ffffff 0%, #fdefd3 100%);
+	border-radius: 7px;
+	-webkit-border-radius: 7px;
+	z-index: 3;
+	padding: 15px 20px;
+}
+	
+@-webkit-keyframes rotateThis {
+	0% { -webkit-transform: rotate(0deg); }
+	50% { -webkit-transform: rotate(180deg); }
+	100% { -webkit-transform: rotate(360deg); }
+}
+
+/*****************************
+ * LOGO
+ *****************************/
+	
+#gadgetWrapper .logoTop{
+	min-height: 35px;
+
+	background: url(../icons/logo.png) no-repeat left top;
+	text-align: left;
+	margin-bottom: 9px;
+  padding-left: 30px;
+  line-height: 1.5em;
+}
+
+#gadgetWrapper .content{
+	border-top: 1px solid #ccc;
+	padding-top: 1px;
+}
+
+/*****************************
+ * MENU LIST
+ *****************************/
+
+#gadgetWrapper .menuListWrap{
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 10px 0 15px;
+	margin:1px 0 10px;
+}
+#gadgetWrapper .menuListWrap.main{
+	border-top: 0;
+}
+#gadgetWrapper .menuList li{
+	display: block;
+	padding: 1px 0;
+	border-bottom: 1px dotted #cdcdcd;
+}
+#gadgetWrapper .menuList li:last-child{
+	border-bottom: 0;
+}
+#gadgetWrapper .menuList li a{
+	display: block;
+	padding: 7px 4px 7px 26px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+	white-space:nowrap;
+}
+#gadgetWrapper .main .menuList li a{
+	color: #2589b7;
+}
+#gadgetWrapper .menuList li a{
+  background-repeat: no-repeat;
+	background-position: 5px 8px;
+	position: relative;
+}
+#gadgetWrapper .menuList li a:hover{
+	background-color: #666;
+	color: #fff;
+}
+		
+/*****************************
+ * BIG BLUE BUTTON
+ *****************************/
+
+#gadgetWrapper .blueButton{
+	display: block;
+	padding: 10px 0;
+	border: 1px solid #2589b7;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	background: #38a1d1;
+	background: linear-gradient(top,  #61b4db 0%,#309dcf 100%);
+	background: -webkit-linear-gradient(top,  #61b4db 0%,#309dcf 100%);
+	box-shadow: 0px 0px 0px 1px #eee;
+	-webkit-box-shadow: 0px 0px 0px 1px #eee;
+	user-select: none;
+	-webkit-user-select: none;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#gadgetWrapper .blueButton:hover{
+	background: #309dcf;
+	box-shadow: 0px 0px 0px 2px #eee;
+	-webkit-box-shadow: 0px 0px 0px 2px #eee;
+}
+
+#gadgetWrapper .blueButton:active{
+	box-shadow: 0px 0px 0px 2px #fccf7b;
+	-webkit-box-shadow: 0px 0px 0px 2px #fccf7b;
+}

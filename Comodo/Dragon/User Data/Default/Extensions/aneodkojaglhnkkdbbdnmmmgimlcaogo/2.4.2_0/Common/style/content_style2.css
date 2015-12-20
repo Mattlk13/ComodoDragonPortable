@@ -1,0 +1,88 @@
+#sideDragRight{
+    display: none;
+    position: fixed;
+    height: 100%;
+    width:200px;
+    right: -205px;
+    top:0;
+    z-index: 9999999999;
+    border-left: 1px #ccc solid;
+    overflow: hidden;
+    background-color:rgba(255,255,255,0.8);
+    opacity: 0.9;
+}
+#sideDragLeft{
+    display: none;
+    position: fixed;
+    height: 100%;
+    width:200px;
+    left: -205px;
+    top:0;
+    z-index: 9999999999;
+    border-right: 1px #ccc solid;
+    overflow: hidden;
+    background-color:rgba(255,255,255,0.8);
+    opacity: 0.9;
+}
+#firstTimeWarningDDS{
+    position: fixed;
+    height: auto;
+    width: 200px;
+    top: 5%;
+    right: 5%;
+    z-index: 99999990;
+    border: 1px #ccc solid;
+    border-radius: 10px;
+    overflow: hidden;
+    background-image: url("../../images/arr_bckg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color:rgba(80, 80, 80, 0.75);
+    padding: 10px 50px;
+    opacity: 0;
+    box-sizing:content-box;
+    -moz-box-sizing:content-box;
+}
+#firstTimeWarningDDS p, #firstTimeWarningDDS span {
+    font-size:12px;
+    color:#eee;
+    margin: auto !important;
+    line-height: 16px;
+    font-family: arial;
+    border: none;
+    width: auto;
+}
+#do_now_show_dds_warn_again{
+    padding:0 3px;
+    height: auto;
+    border: 1px #ccc solid;
+    background-color:rgba(160, 160, 160, 0.75);
+    border-radius: 5px;
+    cursor: pointer;
+    width: auto;
+    margin: 10px auto;
+}
+#do_now_show_dds_warn_again:hover{
+    background-color:rgba(120, 120, 120, 0.5);
+}
+.side_social_box, .side_search_box{
+    width:100%;
+    border-bottom: 1px #ebebeb solid;
+    overflow: hidden;
+}
+.side_social_box:nth-child(odd), .side_search_box:nth-child(odd){
+    /*background-color:rgba(68, 68, 68, 0.75);*/
+}
+.side_social_box:nth-child(even),.side_search_box:nth-child(even){
+    /*background-color:rgba(133, 133, 133, 0.75);*/
+}
+
+.child-elements {
+    pointer-events: none;
+}
+.side_search_box img{
+    display: block !important;
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+}

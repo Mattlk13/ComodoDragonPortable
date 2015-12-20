@@ -1,0 +1,66 @@
+{
+   "addText": {
+      "description": "Add button text",
+      "message": "Add"
+   },
+   "deleteItems": {
+      "description": "Delete selected item(s)",
+      "message": "Are you sure you want to remove this item(s)?"
+   },
+   "extName": {
+      "description": "Comodo Share Page Service",
+      "message": "Comodo Share Page Service"
+   },
+   "imageText": {
+      "description": "Thead image column text",
+      "message": "Image"
+   },
+   "incorrectInput": {
+      "description": "User input incorect",
+      "message": "Incorrect user input"
+   },
+   "logoText": {
+      "description": "Header logo text",
+      "message": "Share page"
+   },
+   "nameText": {
+      "description": "Thead name column text",
+      "message": "Name"
+   },
+   "optionsText": {
+      "description": "Options button text",
+      "message": "Options"
+   },
+   "removeText": {
+      "description": "Delete button text",
+      "message": "Delete"
+   },
+   "reset": {
+      "description": "Reset options to default state question",
+      "message": "Are you sure you want to reset item(s) to default?"
+   },
+   "resetComplete": {
+      "description": "Reset options to default state complete",
+      "message": "Reset complete"
+   },
+   "resetText": {
+      "description": "Reset button text",
+      "message": "Reset"
+   },
+   "save": {
+      "description": "Save user setting",
+      "message": "Options saved"
+   },
+   "saveText": {
+      "description": "Save button text",
+      "message": "Save"
+   },
+   "selectionError": {
+      "description": "User selection error",
+      "message": "No items selected"
+   },
+   "urlText": {
+      "description": "Thead URL column text",
+      "message": "Url"
+   }
+}

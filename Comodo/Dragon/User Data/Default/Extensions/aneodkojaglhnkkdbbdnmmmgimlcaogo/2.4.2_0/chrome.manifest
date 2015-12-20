@@ -1,0 +1,13 @@
+content   DnD              chrome/content/
+skin      DnD  classic/1.0   chrome/skin/
+locale    DnD  en-US         chrome/locale/en-US/
+
+resource  DnDscripts  chrome/content/scripts/
+resource  DnDfiles  chrome/content/files/
+resource  DnDCommonScripts Common/scripts/
+resource  DnDCommonStyle Common/style/
+resource  DnDCommon Common/
+resource  DnDstyles  chrome/skin/
+resource  DnDlogos2 images/
+
+overlay chrome://browser/content/browser.xul  chrome://DnD/content/browserOverlay.xul

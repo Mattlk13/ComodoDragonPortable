@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>ComodoSideSearch Properties</title>
+        <script type="application/x-javascript" src="resource://DnDCommonScripts/classRepository.js"></script>
+        <script type="application/x-javascript" src="chrome://DnD/content/scripts/classPrefs.js" ></script>
+        <script type="application/x-javascript" src="resource://DnDCommonScripts/jquery-1.11.0.min.js"></script>
+        <script type="application/x-javascript" src="chrome://DnD/content/scripts/optionsView.js"></script>
+        <script type="application/x-javascript" src="chrome://DnD/content/files/options.js" ></script>
+        <link rel="stylesheet" type="text/css" href="resource://DnDCommonStyle/content_style2.css"/>
+        <link rel="stylesheet" type="text/css" href="resource://DnDCommonStyle/options_style.css"/>
+        
+    </head>
+    <body>
+        <div id="dndOptionsTitle">
+            <span>ComodoSideSearch Properties</span>
+            <div id="restoreDefaults" class="submitButton">Restore Defaults</div>
+            
+        </div>
+        <div id="shareRepWrap">
+            <span>Share Repository</span>
+            <div id="shareRepo">
+            </div>
+            
+        </div>
+        <div id="searchRepWrap">
+            <span>Search Repository</span>
+            <div id="searchRepo">
+            </div>
+            
+        </div>
+        
+        
+        <div id="NewSearchWrap" >
+        <h3>Add new Search engine</h3>
+        <form name="addSearchEngine">
+            <input type="text" name="searchEngineName" value="" placeholder="Search Engine's name" />
+            <input type="text" name="searchEngineLink" value="" placeholder="Search Engine's link" />
+            <input type="text" name="searchEngineLogoUrl" value="" placeholder="Search Engine's Logo URL" />
+            <div class="submitButton cancelAdd">  Cancel </div>
+            <div class="submitButton" id="addNewSearch"> Ok </div>
+            
+        </form>
+        </div>
+ 
+        <div id="NewShareWrap">
+        <h3>Add new Social Network</h3>
+        <form name="addSocialNetwork">
+            <input type="text" name="socialNetworkName" value="" placeholder="Social Network's name" />
+            <input type="text" name="socialNetworkLink" value="" placeholder="Social Network's link" />
+            <input type="text" name="socialNetworkLogoUrl" value="" placeholder="Social Network's Logo URL" />
+            <div class="submitButton cancelAdd">  Cancel </div>
+            <div class="submitButton" id="addNewNetwork">  Ok </div>
+            
+        </form>
+        </div>
+        <div id="bckgCover" style="background: url('resource://DnDlogos2/coverBckg.png')"></div>
+        
+    </body>
+</html>
+

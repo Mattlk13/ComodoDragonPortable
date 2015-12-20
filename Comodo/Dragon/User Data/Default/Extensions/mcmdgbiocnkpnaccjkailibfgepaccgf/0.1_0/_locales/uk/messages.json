@@ -1,0 +1,66 @@
+{
+   "addText": {
+      "description": "Add button text",
+      "message": "Додати"
+   },
+   "deleteItems": {
+      "description": "Delete selected item(s)",
+      "message": "Ви дійсно бажаете видалити вибрані єлементи?"
+   },
+   "extName": {
+      "description": "Comodo Share Page Service",
+      "message": "Comodo Share Page Service"
+   },
+   "imageText": {
+      "description": "Thead image column text",
+      "message": "Зображення"
+   },
+   "incorrectInput": {
+      "description": "User input incorect",
+      "message": "Помилка при введені данних"
+   },
+   "logoText": {
+      "description": "Header logo text",
+      "message": "Поділитися сторінкою"
+   },
+   "nameText": {
+      "description": "Thead name column text",
+      "message": "Назва"
+   },
+   "optionsText": {
+      "description": "Options button text",
+      "message": "Налаштування"
+   },
+   "removeText": {
+      "description": "Delete button text",
+      "message": "Видалити"
+   },
+   "reset": {
+      "description": "Reset options to default state question",
+      "message": "Ви дійсно бажаете скинути параметри?"
+   },
+   "resetComplete": {
+      "description": "Reset options to default state complete",
+      "message": "Параметри скинуті"
+   },
+   "resetText": {
+      "description": "Reset button text",
+      "message": "Скинути"
+   },
+   "save": {
+      "description": "Save user setting",
+      "message": "Параметри збережено"
+   },
+   "saveText": {
+      "description": "Save button text",
+      "message": "Зберегти"
+   },
+   "selectionError": {
+      "description": "User selection error",
+      "message": "Єлементи не вибрані"
+   },
+   "urlText": {
+      "description": "Thead URL column text",
+      "message": "Url"
+   }
+}

@@ -1,0 +1,51 @@
+#notification_label {
+  display: none;
+  visibility: hidden;
+  background-color: #AAAAAA;
+  color: #FFFFFF;
+  font-size: 10pt;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border: 1px solid #FFFFFF;
+	font-weight: bold;
+	text-align:center;
+	margin: 0px;
+	padding: 0px;
+}
+
+td.selector {
+}
+
+td.image {
+}
+
+td.name {
+}
+
+td.url {
+}
+
+table {
+	border-collapse: collapse;
+  text-align: center;
+  vertical-align: middle;
+  display: block;
+}
+
+thead {
+  background-color: #7C0000;
+  color: #FFFFFF;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+tbody {
+  font-family: Tahoma;
+  font-size: 10pt;
+}
+
+
+#error {
+	background-color: #7C0000;
+	color: #FFFFFF;
+}

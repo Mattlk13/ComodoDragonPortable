@@ -1,0 +1,26 @@
+{
+   "extName": {
+      "description": "Comodo Web Inspector",
+      "message": "Comodo Web Inspector"
+   },
+   "notificationLabelText": {
+      "description": "Notification label text",
+      "message": "Options Saved."
+   },
+   "saveText": {
+      "description": "Save button text",
+      "message": "Save"
+   },
+   "scan": {
+      "description": "Scan only",
+      "message": "Scan with Web Inspector"
+   },
+   "scanNavigate": {
+      "description": "Scan site and navigate",
+      "message": "Scan with Web Inspector and navigate"
+   },
+   "titleText": {
+      "description": "Page title",
+      "message": "Show context menu item:"
+   }
+}

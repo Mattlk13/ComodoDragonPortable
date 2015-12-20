@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<title>AdSanitizer Options</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<link href="../css/jquery.jscrollpane.css" rel="stylesheet">
+	<link href="../css/options.css" rel="stylesheet">
+	<script type="text/javascript" src="../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.mousewheel.js"></script>
+	<script type="text/javascript" src="../js/jquery.jscrollpane.min.js"></script>
+
+</head>
+
+
+
+<body>
+
+<div class="wrapper">
+
+	<div class="popup_wrapper">
+
+		<div class="popup">
+			
+			<div class="top_bar">
+				<div class="logo"></div>
+			</div>
+			
+			<div class="popup_content">
+				
+				<div class="left_nav">
+					<ul>
+						<li class="active"><a href="#summary">Summary</a></li>
+						<li><a href="#protection">Protection</a></li>
+						<li><a href="#exception_list">Exception List</a></li>
+						<li><a href="#about">About</a></li>
+					</ul>
+				</div>
+				
+				<div class="tab_content">
+					<div id="summary">
+						<h2>SUMMARY</h2>
+						<div class="main">
+							<div class="protection_state">
+								<h3>Ad Sanitizing protection is:</h3><span id="onoff" class="state on">On</span>
+								<p>With Ad Sanitizing protection turned on your computer is protected from advertising based threats.</p>
+							</div>
+							<div class="protection_result">
+								<p>Since your browser started Ad Sanitizer has protected you from this many threats:</p>
+								<span id="sessionCounter" class="threats_quantity">0</span>
+							</div>
+						</div>
+					</div>
+					<div id="protection">
+						<h2>PROTECTION</h2>
+						<p>Anti-Malvertising Protection AMP will locate threats and prevent them from reaching your computer. Select how you would like to control threat detection.</p>
+						<div class="controls">
+							<h3>Ad Safety</h3>
+							<div id="pluginState" class="fieldset">
+								<div>
+									<span id="pluginOn" class="radio"></span><span class="label">Sanitize ads to protect my computer</span>
+								</div>
+								<div>
+									<span id="replaceAd" class="checkbox"></span><span class="label">Deliver only safe ads from trusted ad sources<br><a target="_blank" href="http://adsanitizer.com/faq.html">Learn More</a></span>
+								</div>
+								<div>
+									<span id="pluginOff" class="radio"></span><span class="label">Turn Off</span>
+								</div>
+							</div>
+							<h3 style="display: none;">Site Safety</h3>
+							<div style="display: none;" class="fieldset">
+								<div>
+									<span class="radio"></span><span class="label">Turn Off</span>
+								</div>
+								<div>
+									<span class="checkbox checked"></span><span class="label">Show site inspection credentials in search results pages (Requires HTTPS Filtering)</span>
+								</div>
+							</div>	
+						</div>
+					</div>
+					<div id="exception_list">
+						<h2>EXCEPTION LIST</h2>
+						<p>Allow a site to bypass scanning by adding the site domain name to the exclusions list.</p>
+						
+							<p id="exampleText"><b>Add a website to your Exception list </b>(ex: www.example.com, site1.com, *.mysite.com)</p>
+							<input type="text" id="input_new_site" placeholder="type website address">
+							<input type="submit" id="addSite2Whitelist" value="Add to Exception List">
+						
+						<div class="exception_list_block">
+							<p><b>Websites in your  Exception list:</b></p>
+							<div id="sel-unsel" style="display:none;" class="list_controls">
+								<span id="select_all" class="select_all">Select All</span>
+								<span>/</span>
+								<span id="unselect_all" class="deselect_all">Deselect All</span>
+							</div>
+							<div id='whitelistScrollContainer' style="height: 132px;">
+								<ul id="whiteListContainer">
+									<li class="empty-list-label">No domains in Exceptions list.</li>
+								</ul>
+							</div>
+							<button id="remove_selected_whitelist" class="green_btn">Remove Selected</button>
+							<span id="empty_list_label" class="no_exception">No Website added</span>
+						</div>
+					</div>
+					<div id="about">
+						<div class="main">
+							<h2>ABOUT</h2>
+							<p>Ad Sanitizer is designed to keep your browsing safe and free from advertising based threats.</p>
+							<p>Ad Sanitizer Version <span id="version_plugin">N.NN.</span><br>
+                            Threat database version <span id="version_data">N.NN.</span></p>
+							<p>Ad Sanitizer will update automatically to ensure you always have the best protection.</p>
+							<p>This product utilizes third party software distributed under their own end users license agreement.</p>
+							<p><a target="_blank" href="http://adsanitizer.com">http://adsanitizer.com</a></p>
+						</div>	
+					</div>
+				</div>
+				<div class="footer" style="display:block; ">
+					© AdtrustMedia, LLC. 2012-2015. All rights reserved.
+				</div>
+				
+			</div>
+			
+		</div>
+
+	</div>
+
+</div>
+<script src="/js/options.js" type="text/javascript"></script>
+
+</body>
+</html>

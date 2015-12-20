@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "js": [ "jquery.min.js", "jquery.balloon.js", "content.js" ],
+      "matches": [ "*://*.adobe.com/*flashplayer/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Adobe flash download page helper",
+   "icons": {
+      "128": "comodo128.png",
+      "16": "comodo16.png",
+      "48": "comodo48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlhCBaLZVEz6Wk0/JZOG3/+AGhbyxqro0rvj32YfLSgN1DK5s5SoI6xI+7J8XUVto2A3B/WyqKEt6K9wi19YsT2aWhCOYOo+SLX2tDbwMlqZCP92PRAsovXQc6UM54ArcBZE/5VXKsabSHnjWJigaTopMiXXmpGU/4Wn7TCfQPNNDOg7ukJQOOsLrLSBDyXt+5d+KFTFFMaEMyaKuIndjb+ZdEPa/dPEAec7KINXtJj79ljjt5CTW1X5vb7IJGMPN9PYNQ5UhnlRNoxAXZhiV+EOuW+0u3VbniG4wUotWI6f2yNZmme8OqYUvM8dzB6fmDYM/GAgRhKXLjmzbV7d/LQIDAQAB",
+   "manifest_version": 2,
+   "name": "Easy Flash Download",
+   "permissions": [ "*://*/" ],
+   "version": "3.0"
+}

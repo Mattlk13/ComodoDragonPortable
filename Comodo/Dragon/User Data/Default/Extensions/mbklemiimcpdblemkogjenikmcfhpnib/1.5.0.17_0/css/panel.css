@@ -1,0 +1,190 @@
+/* Eric Meyer's CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, images, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	cursor: default !important;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* End of Eric Meyer's CSS Reset */
+
+html,body {font-family: Arial, sans-serif;padding:0;margin:0;background: #303435;overflow-y:auto;width:300px; border-radius: 5px; color: #fff;}
+a{font-size:12px;color:white;text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+aside { background: #2f3233;}
+aside .wrapper { background: #4a4e4f; border-radius: 5px; margin: 10px 5px 5px 5px;}
+
+#headBand{display:block;overflow: auto;padding: 13px 8px 0px 11px;/*border-bottom:1px solid #000000*/}
+    #pluginLogo{float:left;margin:0;}
+    #onoff{float:right;width:77px;height:34px;margin: 2px 10px;padding:0;background:none;border:none;cursor: pointer; margin-top:15px}
+        #onoff span{display: none;}
+
+    #optionsButton{float:right;margin: 6px 3px 0 0;}
+
+#whiteListFound{padding: 7px 6px 0px 12px;/*border-top:1px solid #292727*/;color:#fff;font-size:10px;font-weight:bold;/*text-shadow: 0 1px 1px #171717;*/
+    /*background: url('/images/whitelist-bg.png') repeat-x left center;*/}
+    #whiteListFound a{float:right;color:#0194a5;font-size:12px;font-weight:bold;text-decoration: none;padding: 6px 25px;margin: -6px 16px 0 0;
+        border-radius: 3px;
+		/*text-shadow: 0 1px 1px #1b9198;*/
+		box-shadow:0px 1px 2px #6c6b68;
+        background: #ffffff; /* Old browsers */
+        background: -moz-linear-gradient(top,  #ffffff 0%, #cfcfcf 100%); /* FF3.6+ */
+        /* background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#27bfc8), color-stop(100%,#16868c)); Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top,  #ffffff 0%,#cfcfcf 100%); /* Chrome10+,Safari5.1+ */
+        background: linear-gradient(to bottom,  #ffffff 0%,#cfcfcf 100%); /* W3C */
+
+    }
+    #whiteListFound a:hover{text-decoration: none;background: #ffffff;}
+
+#msgThreatsFound{padding: 25px 0 0 0;color:#84b72f; text-align: center;font-size:13px;font-weight:bold;/*text-shadow: 0 0 2px #bf2e15;*/}
+    /*.no-threatsFound{background: #68aa00;}
+    .threatsFound{background: #fc5300;}
+    .notScanned{background: #039BCF;}*/
+	.pluginDisabled {padding: 20px 0 20px 0 !important;}
+
+#threats{display:block;padding:9px 0 0 0; margin: 10px 0 0 0; overflow: auto; height: 183px;}
+
+#threats ul{list-style: none;padding:0;margin:0 10px;border-top:1px solid #414445; }
+#threats ul li{display:block;margin: 0;padding:36px 5px 33px 0;font-size: 12px;color:white; white-space: nowrap;
+    text-overflow: ellipsis;overflow:hidden;border-top:1px solid #565a5b;border-bottom:1px solid #414445;/*text-shadow: 0 0 2px #161515;*/ }
+#threats ul li.expandable{cursor:pointer;}
+#threats ul li.lastCat{border-bottom:none;}
+#threats .jspPane { width: 290px !important;}
+
+
+#threats ul li b{float:left; font-size: 16px;}
+#threats ul li i{float:right;font-style: normal;font-weight: bold;padding:3px 0 0 0;}
+#threats ul li i span{color:#fff;}
+#threats ul li i span.red{color:#fc5300;}
+#threats ul li a{color:#03afce;}
+
+
+#sessionCounter{width: 280px;
+				 height: 70px;
+				 margin: 20px 0 0 5px;
+				 -webkit-border-radius: 9px/8px 9px 9px 8px;
+				 -moz-border-radius: 9px/8px 9px 9px 8px;
+				 border-radius: 9px/8px 9px 9px 8px;
+				 background-color: #79b327;
+				 -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.5);
+				 -moz-box-shadow: 0 1px 1px rgba(0,0,0,.5);
+				 box-shadow: 0 1px 1px rgba(0,0,0,.5);
+				 background-image: -webkit-linear-gradient(bottom, rgba(0,0,0,.35), rgba(255,255,255,.35));
+				 background-image: -moz-linear-gradient(bottom, rgba(0,0,0,.35), rgba(255,255,255,.35));
+				 background-image: -o-linear-gradient(bottom, rgba(0,0,0,.35), rgba(255,255,255,.35));
+				 background-image: -ms-linear-gradient(bottom, rgba(0,0,0,.35), rgba(255,255,255,.35));
+				 background-image: linear-gradient(to top, rgba(0,0,0,.35), rgba(255,255,255,.35));
+				;text-align: center;;
+}
+    #sessionCounter b{display:block;font-size: 34px;padding: 7px 0px 2px 0;font-weight: normal;}
+
+
+/*element need to be hided on popup init*/
+#whiteListFound{display: none;}
+#sessionCounter{display: none;}
+#threats{display: none;}
+
+
+/*hiding requested in ticket*/
+#onoff, #addToWhitelist, #removeFromWhitelist{
+    display: none;
+}
+
+.clear{
+    clear:both;
+}
+
+.drop-list{
+    background: #303435;
+    font-size: 16px;
+    border-radius: 3px;
+    margin:-18px 3px 5px 0;
+    padding:0;
+    display:none;
+}
+
+.drop-list p{
+    margin: 0;
+    padding:10px 0 5px 21px;
+    line-height: 18px;
+	font-size:12px;
+}
+.drop-list p span.block_request{
+    float: right;
+    padding-right: 8px;
+}
+
+.drop-list p span.block_domain{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	width: 168px;
+	display: inline-block;
+}
+
+.arrow{
+    background:url(/images/arrow.png) no-repeat 1px top;
+    display:block;
+    width:13px;
+    height:12px;
+    float:left;
+    margin-right:10px;
+    margin-top:3px;
+}
+
+.arrow-invis{
+    display:block;
+    width:8px;
+    height:8px;
+    float:left;
+    margin-right:10px;
+    margin-top:5px;
+}
+
+.opened{
+    background-position: left -11px;
+}

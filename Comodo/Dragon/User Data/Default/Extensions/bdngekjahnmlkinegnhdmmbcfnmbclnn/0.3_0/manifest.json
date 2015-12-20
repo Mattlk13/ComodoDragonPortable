@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "main.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png"
+   },
+   "default_locale": "en",
+   "icons": {
+      "16": "icon_16.png",
+      "48": "icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCmQgtMV5Eqr/p3ib17605L5UbsJbxnZBJQi6m/XWLXCtgTXp/nmoO2/4z9p/qzDJ6UepEvPir+tIIw0zdjqhTuCZBVpRYYUxwCNgJCdB8opig9Ob1AAu6+eOQxAm6k0P9R5aN6LbNueRXgy6KvUHd8oaDygmpztkzhN7PDapnISQIDAQAB",
+   "manifest_version": 2,
+   "name": "Comodo Web Inspector",
+   "options_page": "options.html",
+   "permissions": [ "storage", "contextMenus", "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "http://download.comodo.com/browser/update/extensions/update.xml",
+   "version": "0.3"
+}

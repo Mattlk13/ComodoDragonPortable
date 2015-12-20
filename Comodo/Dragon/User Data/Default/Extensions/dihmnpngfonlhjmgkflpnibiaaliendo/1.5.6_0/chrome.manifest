@@ -1,0 +1,12 @@
+content   MG              chrome/content/
+skin      MG  classic/1.0   chrome/skin/
+locale    MG  en-US         chrome/locale/en-US/
+
+resource  MGscripts  chrome/content/scripts/
+resource  Mgfiles  chrome/content/files/
+resource  MGCommonScripts Common/scripts/
+resource  MGCommonStyle Common/style/
+resource  MGstyles  chrome/skin/
+resource  MGlogos images/
+
+overlay chrome://browser/content/browser.xul  chrome://MG/content/browserOverlay.xul

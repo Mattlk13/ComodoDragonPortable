@@ -1,0 +1,32 @@
+{
+   "background": {
+      "scripts": [ "CHR/scripts/background.js", "Common/scripts/Youtube.js", "Common/scripts/Vimeo.js", "CHR/scripts/Generic.js", "Common/scripts/Dailymotion.js", "Common/scripts/videoObject.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon1.png"
+      },
+      "default_popup": "CHR/html/popup.html",
+      "default_title": "Comodo Media Grabber"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "CHR/scripts/contentScript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Comodo Media Downloader Service",
+   "homepage_url": "http://help.comodo.com/topic-120-1-279-6885-Using-Media-Downloader--to-Download-Streaming-Media.html",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzDqND4+yUKGNjFXR1HwQU3kC/4ee/vnEf7dsiHL2p/yDdSw7YIZNsOCzl3Bux3O9G2KoYG/gwGJZ6b62tNuRSRROlX9RH9a9xzI19vdTt74HChbuudoiVG1DPU1/lTzklYdNgfM0sIBPsDwH94j/8H0OOAxZACSHaWIVMNNoM+PwURlLoyEwFGrFKvDWz6m4l4V/sKMqhOgp3aJUoKp1DXTrF+hbmY7yEDkrfy5xfrq5RRaKZATg1eXrkEyU1x/35aGucIuJYiTUdLBfDS5odBGaozDAmKlhBrxvcJLGe4RCbdhjG5mxuIUNtkMkzfzhoJqhi5RJiEhZgo4sUXzWPQIDAQAB",
+   "manifest_version": 2,
+   "name": "Comodo Media Downloader",
+   "permissions": [ "webRequest", "webRequestBlocking", "storage", "downloads", "contextMenus", "tabs", "http://*/*", "https://*/*", "chrome://favicon/" ],
+   "update_url": "http://download.comodo.com/browser/update/extensions/update.xml",
+   "version": "1.5.6",
+   "web_accessible_resources": [ "images/*.*" ]
+}

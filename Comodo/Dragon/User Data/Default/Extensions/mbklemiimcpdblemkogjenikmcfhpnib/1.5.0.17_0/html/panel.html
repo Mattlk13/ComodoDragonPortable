@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>AdSanitizer</title>
+		<link rel="stylesheet" href="/css/panel.css" type="text/css"  media="screen">
+		<link href="/css/jquery.jscrollpane.css" rel="stylesheet">
+	</head>
+	<body>
+		<header>
+			<div id="headBand">
+				<img id="pluginLogo" src="/images/logo.png" alt="ThreatFinder">
+				<a href="#" id="optionsButton" title="Options panel"><img src="/images/options-btn.png" alt="Options"></a>
+				<button type="button" id="onoff" class="off"><span>onoff</span></button>
+			</div>
+			<div id="whiteListFound">
+				<span></span>
+				<a href="#" id="addToWhitelist">Add</a>
+				<a href="#" id="removeFromWhitelist">Remove</a>
+			</div>
+		</header>
+		<aside>
+			<div class="wrapper">
+				<div id="msgThreatsFound">Not scanned.</div>
+				<div id="sessionCounter"></div>
+				<div id="threats" class="scroll-panel"></div>
+			</div>
+		</aside>
+
+		<script type="text/javascript" src="/js/frameworks/require.js"></script>
+		<script type="text/javascript" src="/js/frameworks/stacktrace.js"></script>
+		<script type="text/javascript" src="/js/frameworks/jquery.js"></script>
+		<script type="text/javascript" src="/js/frameworks/underscore.js"></script>
+		<script type="text/javascript" src="/js/frameworks/backbone.js"></script>
+		<script type="text/javascript" src="/js/jquery.jscrollpane.min.js"></script>
+		<script type="text/javascript" src="../js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="/js/salsita.js"></script>
+		<script type="text/javascript" src="/js/panelPre.js"></script>
+	</body>
+</html>
+
+    

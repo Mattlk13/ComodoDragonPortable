@@ -1,0 +1,44 @@
+<%
+/*
+   Generates:
+
+    <span><label> ... </label></span>
+    <span><input type="text" /></span>
+    <span><input type="button" /></span>
+
+   All elements can have 'class' and 'id' arguments set if provided.
+   Label <span> is generated only if 'label' parameter is provided.
+   Button <span> is generated only if 'button' parameter is provided.
+
+   Template arguments:
+   + label:  { spanClass: string, spanId: string, class: string, id: string, text: string },
+   + box:    { spanClass: string, spanId: string, class: string, id: string },
+   + button: { spanClass: string, spanId: string, class: string, id: string, text: string }
+
+   All the parameters are OPTIONAL, except for the box.id.
+
+ */
+%><%
+
+%><% var label, box, button; if (label) {
+%><span<%= label.spanClass ? ' class="' + label.spanClass + '"' : ''%><%
+     %><%= label.spanId ? ' id="' + label.spanId + '"' : '' %>><%
+%><label<%= label['class'] ? ' class="' + label['class'] + '"' : '' %><%
+      %><%= label.id ? ' id="' + label.id + '"' : '' %>><%
+%><%= label.text || '' %></label><%
+%></span>
+<% }
+%><span<%= box.spanClass ? ' class="' + box.spanClass + '"' : '' %><%
+     %><%= box.spanId ? ' id="' + box.spanId + '"' : '' %>><%
+%><input<%= box['class'] ? ' class="' + box['class'] + '"' : '' %><%
+%> id="<%= box.id %>" type="text" /><%
+%></span>
+<% if (button) {
+%><span<%= button.spanClass ? ' class="' + button.spanClass + '"' : ''%><%
+     %><%= button.spanId ? ' id="' + button.spanId + '"' : '' %>><%
+%><input<%= button['class'] ? ' class="' + button['class'] + '"' : '' %><%
+      %><%= button.id ? ' id="' + button.id + '"' : '' %><%
+      %><%= button.text ? ' value="' + button.text + '"' : '' %> type="button" /><%
+%></span>
+<% }
+%>

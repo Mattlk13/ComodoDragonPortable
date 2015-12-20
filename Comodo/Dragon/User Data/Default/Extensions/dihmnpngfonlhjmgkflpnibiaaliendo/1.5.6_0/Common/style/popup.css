@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'SEGOEUIL';
+	src: url('./fonts/SEGOEUIL.eot');
+	src: local('SEGOEUIL'), url('./fonts/SEGOEUIL.woff') format('woff'), url('./fonts/SEGOEUIL.ttf') format('truetype');
+}
+
+body{margin: 0; padding: 0; font-family: 'SEGOEUIL';}
+#embedList{margin: 0; padding: 0; width: 100%;}
+.videoItem{width: 370px; list-style-type:none; cursor: pointer; float:left; padding-top:15px; padding-bottom: 15px; margin-left: 15px; margin-right: 15px; -webkit-border-radius: 5px 5px 5px 5px; border-radius: 5px 5px 5px 5px; color:#fff;}
+.videoItem:first-child{margin-top:15px}
+.videoItem:last-child{margin-bottom:15px}
+.videoItem:hover{background-color: #dae1e3;}
+.metaDetails{width: 60px; margin-left:15px; display: inline-block; float:left; padding-top: 4px; padding-bottom: 4px; background-color: #e74c3c; -webkit-border-radius: 4px 4px 4px 4px; border-radius: 4px 4px 4px 4px; color:#fff;}
+.metaDetails span{ display: block; text-align: center;}
+.metaDetails .vidTypePop{ font-size: 12px; font-weight: bold;}
+.metaDetails .vidSizePop{ font-size: 10px; }
+.vidTitlePop{width: 280px; margin-left:10px; display: inline-block; float:left; }
+.theTitle{font-size: 14px; color:#1e2a37; line-height: 14px; display: table;}
+.theResolution{display: block; font-size: 10px; color:#78a8dc; margin-top: 5px;}

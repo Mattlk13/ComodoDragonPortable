@@ -1,0 +1,21 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/toolbar_icon_active.png",
+      "default_popup": "browser_action.html",
+      "default_title": "Comodo Share Page Service"
+   },
+   "default_locale": "en",
+   "icons": {
+      "48": "icons/extension_icon_settings.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDwfD/enqqrWJ5DTfEbbQ4hTYsOgVA80njuhPVGm5XJ/IUd9yJUfaahw9SGjZZgyZ0i9a1ulrUpd22TR18c51amrDgZHVGsc+SFji6TI68EogFipOWEwp3+TgDSyet4ZX0seDCZktmvXXbJkzO2sbqMKXqesDXWRoty8SQ0XwuJCwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "options.html",
+   "permissions": [ "storage", "tabs", "http://*/*", "https://*/*", "chrome://favicon/" ],
+   "update_url": "http://download.comodo.com/browser/update/extensions/update.xml",
+   "version": "0.1"
+}

@@ -1,0 +1,42 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArwHjWaenuFk7HULRKJktP0jFw1S47nJIEBHDKkixfILpoBVG7dgcmtnOo14pFPT64ugIF0KCMcr/3bmNe5vPgwsOCI3bx3F0d69esQW5P8jVfn7X1bi2QkzJlmjCOwjwcjjp7x3p8DN4nK2RyXH1kl3u+OTWX/1fbTpj7+5DhPu5zsudnCiHlZYHei05g62ELvfjhkBAePNBzUrTBoNQOI64XMCM+e6TQcqx+AEUvlv6ZLfRSpSaTKsKf936sFT0Sb7Lz0IPwtmI6ukLjUsn8jWMehKnkV7QmA9tiY7TNXuXLlmna93AA1rcsWzcaipaDAIhT0AneAOvRSjqcZz30wIDAQAB",
+   "manifest_version": 3,
+   "name": "Comodo Dragon Browser Light Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "button_background": [ 0, 0, 0, 0.2 ],
+         "control_background": [ 136, 136, 136 ],
+         "frame": [ 242, 242, 242 ],
+         "frame_incognito": [ 136, 0, 0 ],
+         "frame_incognito_inactive": [ 136, 75, 75 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "ntp_link": [ 0, 0, 255 ],
+         "ntp_section": [ 128, 128, 128 ],
+         "ntp_section_link": [ 0, 0, 255 ],
+         "ntp_section_link_underline": [ 0, 0, 255 ],
+         "ntp_section_text": [ 0, 0, 255 ],
+         "ntp_text": [ 0, 0, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 230, 230, 230, 1 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_incognito": "images/theme_frame_incognito.png",
+         "theme_frame_overlay": "images/theme_frame_overlay.png",
+         "theme_frame_overlay_inactive": "images/theme_frame_overlay_inactive.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.6 ]
+      }
+   },
+   "version": "3"
+}

@@ -1,0 +1,9 @@
+2015/12/20-17:40:12.201 5364 Reusing MANIFEST D:\dugl\apps\public\ComodoDragonPortable\Comodo\Dragon\User Data\Default\IndexedDB\http_www.chromeactions.com_0.indexeddb.leveldb/MANIFEST-000001
+2015/12/20-17:40:12.407 5364 Current memtable full; waiting...
+2015/12/20-17:40:12.407 6436 Level-0 table #5: started
+2015/12/20-17:40:12.499 6436 Level-0 table #5: 399 bytes OK
+2015/12/20-17:40:12.534 6436 Delete type=0 #3
+2015/12/20-17:40:12.535 6436 Level-0 table #7: started
+2015/12/20-17:40:12.542 6436 Level-0 table #7: 0 bytes OK
+2015/12/20-17:40:12.559 6436 Delete type=0 #4
+2015/12/20-17:40:12.560 6436 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

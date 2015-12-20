@@ -1,0 +1,54 @@
+{
+   "checksum": "156ebd793216343899a32f48f564e3ef",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13095077923495128",
+            "id": "7",
+            "name": "翻墙后",
+            "type": "url",
+            "url": "http://fanqianghou.com/"
+         }, {
+            "date_added": "13095077942441339",
+            "id": "8",
+            "name": "爱翻墙",
+            "type": "url",
+            "url": "http://www.ifanqiang.com/"
+         }, {
+            "date_added": "13095077968336515",
+            "id": "9",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13095077905414081",
+            "id": "6",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.com.hk/?gws_rd=cr,ssl"
+         } ],
+         "date_added": "13095077745447726",
+         "date_modified": "13095077972546710",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13095077745447734",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13095077745447735",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

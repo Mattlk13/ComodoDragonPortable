@@ -1,0 +1,45 @@
+{
+	"u": {
+		"v": "1.0",
+		"d": "042215",
+		"p": "86400"
+	},
+	"t": {
+		"v": "1.0",
+		"u": "advcon.json"
+	},
+	"f": "adtrustmedia_toolbar,background_color,search_item_icons,pop_up,dropdown_menu,current_site_icons,search_box",
+	"d": {
+		"v": "1.0",
+		"u": "messageDispatcher.js"
+	},
+	"s": {
+		"v": "1.0",
+		"u": "serpinject.json"
+	},
+	"e": {
+		"v": "1.0",
+		"u": "exlst.json"
+	},
+	"m": {
+		"v": "1.0",
+		"u": "suggestions.json"
+	},
+	"w": {
+		"v": "1.0",
+		"u": "httpsthreatvectors.json"
+	},
+	"a": {
+		"v": "1.00",
+		"u": "creativecontrol.json"
+	},
+	"b": {
+		"v": "1",
+		"s": "2",
+		"a": "60",
+		"r": "http://api.adtrustmedia.com/val_api.php",
+		"c": "http://api.adtrustmedia.com/val_api.php",
+		"l": "http://api.adtrustmedia.com/list_api.php",
+		"u": "https://ads.adtrustmedia.com/safecheck.php"
+	}
+}

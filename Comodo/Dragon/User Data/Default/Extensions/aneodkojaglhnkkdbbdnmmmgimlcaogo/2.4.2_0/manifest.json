@@ -1,0 +1,26 @@
+{
+   "background": {
+      "page": "CHR/html/background.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "Common/style/content_style2.css" ],
+      "js": [ "CHR/scripts/defineBrowser.js", "Common/scripts/classRepository.js", "Common/scripts/classCommunicate.js", "Common/scripts/classSearchFunc.js", "Common/scripts/classCommon.js", "Common/scripts/classDragDrop.js", "CHR/scripts/classPrefs.js", "CHR/scripts/InitDragDrop2.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Comodo Drag&Drop Service",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArmVKTmAYtPJRDnYxOoCYOejABmPLK8U8ninJyKQBAgOum8ztvirFI1mG63mEfoFhKBJJDDdXiaNJC7oiR7MZYOS/yNVhZX/mfSOlz2RNKa6czmgZ4/PSLv/9gC4oNiheVs4rU/xD682Hi8c0D3kNJs7XPKS71db/Zv5A5Y7+4U3f8oNo7i8XZPHBuBoHXwBpz/4YbjRIe/+uyQrTMAGzck0a03DuDpHzGbpmII/iun7hXmHCPTOPoI9s0W6DUVs5PBm5kPEd+kC9xznVyBJR+kPSYh2VgvUx81HXW/5v+95ITXGj59Fz/miv/jMAIQyqbjaxN1ZV+QtI/YzGSQIdVwIDAQAB",
+   "manifest_version": 2,
+   "name": "Comodo Drag&Drop Service",
+   "options_page": "CHR/html/options.html",
+   "permissions": [ "storage", "contextMenus", "tabs", "http://*/*", "https://*/*", "chrome://favicon/" ],
+   "update_url": "http://download.comodo.com/browser/update/extensions/update.xml",
+   "version": "2.4.2",
+   "web_accessible_resources": [ "images/*.*", "images2/*.*" ]
+}

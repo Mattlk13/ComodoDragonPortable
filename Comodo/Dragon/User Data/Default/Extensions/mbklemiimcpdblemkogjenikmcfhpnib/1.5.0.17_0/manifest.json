@@ -1,0 +1,32 @@
+{
+   "background": {
+      "page": "html/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      },
+      "default_popup": "html/panel.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "js/frameworks/cajon.js", "js/frameworks/stacktrace.js", "js/frameworks/jquery.js", "js/frameworks/underscore.js", "js/frameworks/backbone.js", "js/frameworks/require_sync.js", "js/salsita.js", "js/process.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Protects against Malvertizing",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4869q+952ZAhjukGDNlq31LOLp41M+eOeUNi+6hyxTN+jpsdASXvJUZFzyjcudh6nKtrPb5sfA6tPaiFJVWSpBWg9yVfKaF/4OfA0FgRKo9GpghFGzcd1+6GUWEeb1XF0a18TGKUOqUaeqEP08Fwmq8wq/EcVAPjU/B+O2YF7wFpzIW80UcZUWZjU2hroUmY51Hd8kYQBAYnX2t9o+/h5xpWVoXUqvYO4hDCgjpg/gB51Jo6uGLVoE48u+PJFl+cb9S/lKrBpqxTdpI5nC7feuXa0CTgVNrTWWtRRuM141Qv061CURwvsNyYVRODyXQYtiaPme1b3PSeci+ibT/LHQIDAQAB",
+   "manifest_version": 2,
+   "name": "Ad Sanitizer",
+   "options_page": "html/options.html",
+   "permissions": [ "webRequest", "webRequestBlocking", "webNavigation", "tabs", "cookies", "management", "privacy", "bookmarks", "*://*/*", "\u003Call_urls>" ],
+   "update_url": "http://adsanitizer.com/updates/2096/comodobrowser/update.xml",
+   "version": "1.5.0.17",
+   "web_accessible_resources": [ "images/_.png", "js/content.js", "js/contentSession.js", "js/messaging.js", "js/localConfig.js", "js/models/lookupRequest.js", "js/schemas/lookupRequest.js", "js/frameworks/uri.js", "js/frameworks/hcl.js", "js/models/lookupResponse.js", "js/schemas/lookupResponse.js", "js/backgroundHandlers.js", "js/contentHandlers.js", "js/frameworks/backbone-schema.js", "js/backgroundSession.js", "js/backgroundUtils.js", "js/google.js", "js/yahoo.js", "js/bing.js", "js/noSearch.js", "js/contentUtils.js", "js/userPrefs.js", "js/contextMenu.js" ]
+}

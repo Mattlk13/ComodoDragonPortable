@@ -1,0 +1,17 @@
+{
+	"distribution": {
+		"import_home_page": false,
+		"import_bookmarks": false,
+		"import_history": false,
+		"import_search_engine": false,
+		"import_saved_passwords": false,
+		"import_autofill_form_data": false,
+		"import_cookies": false,
+		"import_startup_pages": false,
+		"import_extensions": false,
+		"import_from_chrome": false
+	},
+	"use_comodo_securedns": {
+		"enabled": true
+	}
+}

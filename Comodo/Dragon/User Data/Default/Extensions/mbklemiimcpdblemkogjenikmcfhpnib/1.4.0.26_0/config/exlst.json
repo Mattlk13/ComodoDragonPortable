@@ -1,0 +1,3502 @@
+{
+	"u": {
+		"v": "1.151",
+		"d": "042215"
+	},
+	"h": [
+		{
+			"n": "microsoftstore.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "rakuten.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "linkshare.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "1800flowers.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "carsdirect.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "walmart.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "thrifty.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "autos.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "linkshare.co.uk",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "freetaxusa.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "handhelditems.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "microsoft.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "informit.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "peachpit.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "ftpress.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "esportsonline.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "autopartswarehouse.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "dollar.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "thekaraokechannel.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "carrentals.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "countrywidepaintball.co.uk",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "gohastings.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "easyclicktravel.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "a4c.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "lego.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "autopartsexpress.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "focalprice.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "mypublisher.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "cduniverse.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "extravaluechecks.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "techgenie.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "sixt.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "expansys-usa.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "lastminutetravel.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "abcmouse.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "giantmicrobes.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "geniuschargers.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "portablenorthpole.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "vudu.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "solrepublic.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "chuckandeddies.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "kobo.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "birthdayinabox.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "anytimecostumes.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "megamotormadness.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "zanui.com.au",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "photoweavers.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "kobobooks.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "abhair.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "techarmor.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "onlinesheetmusic.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "daskeyboard.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "rakuten.co.uk",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "dramafever.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagmanager\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "seriouseats.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/cdn\\.yldbt\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "whitesmoke.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "web.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "vimeo.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "skechers.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "paltalk.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "symantec.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "match.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "malwarebytes.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "godaddy.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "gamefly.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "fedex.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "expedia.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "disneystore.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "budget.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "boostsoftware.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "bookingbuddy.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "bestwestern.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "autobarn.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "aliexpress.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "adamevetoys.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "theage.com.au",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/assets\\.adobedtm\\.com/i",
+						"/www\\.googleadservices\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "cnet.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/tags\\.tiqcdn\\.com\\/utag/i",
+						"/s0\\.2mdn\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "yaplakal.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/b\\.kavanga\\.ru/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "vipleague.tv",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ax-d\\.pixfuture\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "welovetube.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/xhamster\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "eksisozluk.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/app\\.medyanetads\\.com/i",
+						"/bs\\.serving-sys\\.com/i",
+						"/secure-ds\\.serving-sys\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "saldiprivati.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "starsports.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adserver\\.adtech\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "basketball.realgm.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/partner\\.googleadservices\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "creatives.livejasmin.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/promo\\.awempire\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "cosme.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/as\\.iy\\.impact-ad\\.jp/"
+					]
+				}
+			]
+		},
+		{
+			"n": "readwrite.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adserver\\.adtechus\\.com|ads\\.saymedia\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "karnaval.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/d31qbv1cthcecs\\.cloudfront\\.net\\/atrk\\.js/i",
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "english.ctrip.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/partner\\.googleadservices\\.com/i",
+						"/pubads\\.g\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "betfair.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/altfarm\\.mediaplex\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "shape.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "cheaptickets.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/partner\\.googleadservices\\.com/i",
+						"/pubads\\.g\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "meishichina.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/cbjs\\.baidu\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "igrydlyadetey.com.ua",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/s0\\.2mdn\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "paesionline.it",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/pagead2\\.googlesyndication\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "dafitipremium.com.br",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "nickjr.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/140cc\\.v\\.fwmrm\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "optimum.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "couverturefacebook.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "denverpost.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/s\\.btstatic\\.com/i",
+						"/s\\.thebrighttag\\.com/i",
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "crackberry.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/rma-api\\.gravity\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "jogarjogosdabarbie.uol.com.br",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adrequisitor-af\\.lp\\.uol\\.com\\.br/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "hindishows.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/serve\\.vdopia\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "dailyfreegames.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "online-vk.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net/i",
+						"/twitter\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "directindustry.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google(?:ad|tag)services\\.com/i"
+					]
+				}
+			],
+			"s": 1
+		},
+		{
+			"n": "spotmais.iol.pt",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/pubads\\.g\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "pogo.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net\\/en_US\\/all\\.js$/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "investopedia.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.google-analytics\\.com\\/ga\\.js$/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "protagon.gr",
+			"p": [
+				{
+					"e": "/id=\\d+/i",
+					"r": [
+						"/w\\.sharethis\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "attweboffers.com",
+			"p": [
+				{
+					"e": "/^(\\/)?smartphones\\//i",
+					"r": [
+						"/servedby\\.flashtalking\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "apps.facebook.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/\\.facebook\\./i"
+					]
+				}
+			]
+		},
+		{
+			"n": "weather.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/ib\\.adnxs\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "nx8.com",
+			"p": [
+				{
+					"e": "/^(\\/)?play\\//i",
+					"r": [
+						"/googleads\\.g\\.doubleclick\\.net.*output=xml/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "simcity.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/platform\\.twitter\\.com/i",
+						"/apis\\.google\\.com\\/js\\/plusone\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "in.gr",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adman\\.in\\.gr.*\\/(?:980x100)\\?/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "moshimonsters.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.google-analytics\\.com\\/ga\\.js$/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "itvmovie.eu",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/tag\\.tlvmedia\\.com.*(?:\\.js)/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "casadossegredos.tv",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/j\\.maxmind\\.com\\/app\\/geoip\\.js$/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "huffingtonpost.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net\\/en_US\\/all\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "mangahere.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/w\\.sharethis\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "webtehaber.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.reklamport\\.com.*(?:_(\\d+x\\d+)_kb)/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "quadsites.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/xsltcache\\.alexa\\.com\\/site_stats\\/gif\\/t\\/a\\/.*=\\/s.gif/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "passwordbox.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/api\\.mixpanel\\.com\\/track\\//i",
+						"/api\\.mixpanel\\.com\\/site_media\\/js\\/api\\/mixpanel\\.2\\.js/i",
+						"/stats\\.g\\.doubleclick\\.net\\/dc\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "tenmanga.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/www3\\.game-advertising-online\\.com\\/index\\.php\\?.*/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "www1.watchop.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/www2\\.game-advertising-online\\.com\\/index\\.php\\?.*output=gabo$/i",
+						"/www2\\.game-advertising-online\\.com\\/crossdomain\\.xml/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "mangafox.me",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/w\\.sharethis\\.com\\/button\\/buttons\\.js$/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "digitalspy.co.uk",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/req\\.connect\\.wunderloop\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "loansofsuccess.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/",
+						"/mc\\.yandex\\.ru/"
+					]
+				}
+			]
+		},
+		{
+			"n": "getempoweredprogram.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/forms\\.aweber\\.com\\/form\\/.*(?:\\.js)/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "change.org",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ssl\\.google-analytics\\.com\\/ga\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "gametrailers.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/btg\\.mtvnservices\\.com/i",
+						"/.*\\.flux\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "ratezip.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googleadservices\\.com/",
+						"/google-analytics\\.com/",
+						"/googleads\\.g\\.doubleclick\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "unfriendable.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/pagead2\\.googlesyndication\\.com\\/pagead\\/show_ads\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "zalando.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\-emea\\.doubleclick\\.net\\/adi\\/N6698\\.326331\\.ZALANDO\\.DE1/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "comodo.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googleadservices\\.com/",
+						"/google-analytics\\.com/",
+						"/doubleclick\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "pctuneup.comodo.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googleadservices\\.com/",
+						"/google-analytics\\.com/",
+						"/doubleclick\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "ssl.comodo.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googleadservices\\.com/",
+						"/google-analytics\\.com/",
+						"/doubleclick\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "instantssl.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googleadservices\\.com/",
+						"/google-analytics\\.com/",
+						"/doubleclick\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "sprint.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/view\\.atdmt\\.com\\/SPT\\//i"
+					]
+				}
+			]
+		},
+		{
+			"n": "zoom.com.br",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "petrobras.com.br",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "easyjet.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "tryperfecter.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "google.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/apis\\.google\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "twitter.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/platform0\\.twitter\\.com/",
+						"/platform0\\.twitter\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "getmyinsurance.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "businessinsider.com",
+			"p": [
+				{
+					"e": "/.*/i",
+					"r": [
+						"/api\\.bizographics\\.com\\/v2\\/profile\\.redirect/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "totalmotorcycle.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.anrdoezrs\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "forbes.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.doubleclick\\.net.*?pos=thought;/"
+					]
+				}
+			]
+		},
+		{
+			"n": "bureaubladachtergronden.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.facebook\\.com\\/plugins\\/like_box\\.php/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "directindustry.fr",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google(?:ad|tag)services\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "directindustry.es",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google(?:ad|tag)services\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "pkrstats.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/xsltcache\\.alexa\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "directindustry.it",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google(?:ad|tag)services\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "apne.tv",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.facebook\\.com\\/plugins\\/like\\.php/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "search.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "quizzes.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "help.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "about.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "blog.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "feedback.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "theknow.ask.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "samachar.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.sify\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "sportyou.es",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/scd\\.sportyou\\.es/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "mousebreaker.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "conduit.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			],
+			"s": 1
+		},
+		{
+			"n": "archiexpo.fr",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/googleadservices\\.com/i"
+					]
+				}
+			],
+			"s": 1
+		},
+		{
+			"n": "directindustry.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google(?:ad|tag)services\\.com/i"
+					]
+				}
+			],
+			"s": 1
+		},
+		{
+			"n": "archiexpo.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google(?:ad|tag)services\\.com/i"
+					]
+				}
+			],
+			"s": 1
+		},
+		{
+			"n": "gumtree.com.au",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "cur.lv",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/schetu\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "vivalascuola.studenti.it",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/studenti/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "forbes-formula.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\/N7175\\//i"
+					]
+				}
+			]
+		},
+		{
+			"n": "natiga-results.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\/show\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "tgmonline.it",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\?zoneid=219/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "gamesvillage.it",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\?zoneid=231/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "fifa.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/pubads\\.g\\.doubleclick\\.net/i",
+						"/s0\\.2mdn\\.net\\/instream/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "flash-game.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/pagead2\\.googlesyndication\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "addictinggames.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/(ad\\.doubleclick\\.net|js\\.moatads\\.com|140cc\\.v\\.fwmrm\\.net|btg\\.mtvnservices\\.com)/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "inc.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "quiterly.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/jsc\\.dt07\\.net/"
+					]
+				}
+			]
+		},
+		{
+			"n": "lamoda.ru",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad(?:-emea)?\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "citroen.com.tr",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "duproprio.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/partner\\.googleadservices\\.com/i",
+						"/pubads\\.g\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "ft.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/partner\\.googleadservices\\.com/i",
+						"/pubads\\.g\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "hangtime.blogs.nba.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "thestar.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adobetag\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "mts.ru",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ads\\.adfox\\.ru/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "n-tv.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/script\\.ioam\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "edmunds.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/partner\\.googleadservices\\.com/i",
+						"/pubads\\.g\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "dafiti.cl",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "notjustok.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/(api|imgcdn)\\.nrelate\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "indianexpress.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/j\\.maxmind\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "biebermania.com.br",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/snapwidget\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "yogscast.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adunit\\.cdn\\.auditude\\.com/"
+					]
+				}
+			]
+		},
+		{
+			"n": "freemail.hu",
+			"p": [
+				{
+					"e": "/mail\\/login\\.fm/",
+					"r": [
+						"/ad\\.adverticum\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "nick.com",
+			"p": [
+				{
+					"e": "/games/",
+					"r": [
+						"/140cc\\.v\\.fwmrm\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "si.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com\\/tag\\/js\\/gpt\\.js/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "video.about.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/z\\.about\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "instagram.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/s-static\\.ak\\.facebook\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "megacharme.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/acces\\.direction-x\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "total-dating.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ads\\.mofos\\.com/i",
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "bustyteacherpics.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ard\\.xxxblackbook\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "wannatapit.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ard\\.xxxblackbook\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "lexicamlive.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.cams\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "whizzdates.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.friendfinder\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "sexypicture.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.penthouse\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "internationho.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adsrv\\.bangbros\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "guapashot.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.camduty\\.com/i",
+						"/wamcash\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "1hotpornsite.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.icams\\.com/i",
+						"/live-cams-0\\.livejasmin\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "prosolutionplus.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "vigrxplus.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "prosolutionpills.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "semenax.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "volumepills.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "prosolutiongel.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "vigrxoil.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "hersolution.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "erectionfitness.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "provestra.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "vigorelle.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "proenhance.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "hersolutiongel.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "nexuspheromones.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "provacyl.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "buymaxoderm.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "buyvprx.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "adultfriendfinder.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "senior-dates.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.seniorfriendfinder\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "ligarchat.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/(recursos|salas)\\.paraisowebcam\\.com/i",
+						"/banners\\.promocionesweb\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "cibersexo-chicas.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/(recursos|banners).promocionesweb.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "chicasjuguetonas.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/(banners|recursos)\\.promocionesweb\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "envycam.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ifa\\.camads\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "rktgp.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/hostedads\\.realitykings\\.com/i",
+						"/promos\\.fling\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "buscadorsex.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/salas\\.paraisowebcam\\.com/i",
+						"/datingtools\\.spacash\\.com/i",
+						"/recursos\\.promocionesweb\\.com/i",
+						"/iframes\\.wamcash\\.com/i",
+						"/banners\\.adultfriendfinder\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "sexysexshows.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/creatives\\.livejasmin\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "stripmenow.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/bongacash\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "hotdesktopstrippers.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/banners\\.virtuagirlhd\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "straight.fleshbot.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/embedvideos\\.aebn\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "donanimhaber.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ad\\.donanimhaber\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "amazon.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i",
+						"/aax-us-east\\.amazon-adsystem\\.com/i",
+						"/s\\.amazon-adsystem\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "livejasmin.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "anrdoezrs.net",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "kqzyfj.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "dpbolvw.net",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "jdoqocy.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "tkqlhce.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/google-analytics\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "norton.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "turbotax.intuit.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "legalmatch.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "turbotax.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "advanceautoparts.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "kaspersky.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "avira.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "malwarebytes.org",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "quizzle.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "groupon.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "avg.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "autobarn.net",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "avis.fr",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "avis.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "bustedtees.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "benaughty.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "taxact.com",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "hotels.cn",
+			"s": 1,
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/.*/"
+					]
+				}
+			]
+		},
+		{
+			"n": "pornative.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ads\\.exoclick\\.com/i",
+						"/ads\\.adxpansion\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "fordspecialevent.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "skysports.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adserver\\.adtech\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "teamtalk.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adserver\\.adtech\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "pustakasekolah.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/connect\\.facebook\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "spieletipps.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/script\\.ioam\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "zpravy.aktualne.cz",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/content\\.aimatch\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "traktorpool.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/googletagservices\\.com/i",
+						"/googleadservices\\.com/i",
+						"/doubleclick\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "whitepage.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/tags\\.bluekai\\.com\\/site/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "whitepages.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/tags\\.bluekai\\.com\\/site/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "capricho.abril.com.br",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/s7\\.addthis\\.com/i",
+						"/connect\\.facebook\\.net/i",
+						"/facebook\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "labiedarbi.inbox.lv",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/b\\.adbox\\.lv/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "toysrus.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/edge1\\.certona\\.net/i",
+						"/connect\\.facebook\\.net/i",
+						"/facebook\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "hollywoodhotwives.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.mrskin\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "huuto.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/^http:\\/\\/adserver\\.adtech\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "fapsex.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\/xembed\\.php/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "xvideosfap.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\/xembed\\.php/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "mediotiempo.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www5\\.smartadserver\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "gandalfporn.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/xhamster\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "host.madison.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/www\\.googletagservices\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "favstar.fm",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/s3\\.buysellads\\.com/i",
+						"/srv\\.buysellads\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "www2.2ch.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/js\\.kau\\.li/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "olx.co.id",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/partner\\.googleadservices\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "15min.lt",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/15minlt\\.adocean\\.pl/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "blogher.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ads\\.(blogherads|pubmatic)\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "retailfinancialcareers.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adserver\\.adtech\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "it.rojadirecta.eu",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adcash\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "modhoster.de",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ws-eu\\.amazon-adsystem\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "mecztv.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adcash\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "music.yandex.ua",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/an\\.yandex\\.ru/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "realitatea.net",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/\\bro\\.adocean\\.pl/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "tmz.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/ortc-prd\\.realtime\\.co/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "dna.ancestry.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/myfamilycominc\\.tt\\.omtrdc\\.net/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "autotrader.co.uk",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/rubiconproject\\.com/i",
+						"/flashtalking\\.com/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "spox.com",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/adserver\\.adtech\\.de/i"
+					]
+				}
+			]
+		},
+		{
+			"n": "log.viva.co.id",
+			"p": [
+				{
+					"e": "/.*/",
+					"r": [
+						"/cdn\\.innity\\.net/i",
+						"/epmads\\.com/i"
+					]
+				}
+			]
+		}
+	]
+}

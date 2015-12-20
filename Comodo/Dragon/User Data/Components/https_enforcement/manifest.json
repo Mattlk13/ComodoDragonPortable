@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "Automatic security",
+   "icons": {
+      "128": "comodo128.png",
+      "16": "comodo16.png",
+      "48": "comodo48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqF+wr2b+Gc4XMVZo1B/PdKUkvD0ZhX+6pNMXQ/XXeQWQbXGuKhKXC3QGW90c0gkhgxHqmOerdXWXBp9BxM9ieervoOvznjdhL32j4N/oiznZHRK3KVlBfnZP4X7ZvKjNK+bhgbEKX1gDHwT6BiWDyWUyMuO1Nu/xQcWKfJkZ4wpheQ7juOsnE/2GYrgJ4XOBkwYkLTGA2UFVW0xLoY4vonyUcTNz99zAVkIaiV9XNpPJPckpdH5T9iw/FQvG32nXTJd0vYtchleoYh5yVyTNusTMMFCD9ryxXPwhh1D6d1gjnY/OR4jhuDGO4vNSAkkkD/rKZYibCj1bOW43DfKy7wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "19",
+   "name": "Https Enforcement",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "https_enforce.png",
+      "default_popup": "popup.html",
+      "default_title": "Enforce secure connections"
+   },
+   "permissions": [ "*://*/", "tabs", "webRequest", "webRequestBlocking", "declarativeContent" ],
+   "version": "2.0"
+}

@@ -1,0 +1,19 @@
+<html><head>
+	<title>Secure Connections Enforced- Popup</title>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="popup.js"></script>
+</head>
+<body style="font-size:12px; ">
+	<div style="width:217px;text-align:center; ">
+		<form id="domainboxForm">
+			<div style="color:darkblue; font-size:15px; ">Secure connections enforced</div><div><span style="font-weight: bold;" id="domain"></span></div>
+			<div>Connections to all pages on this host will be over <span id="protocol"></span>.</div>
+			<span id="protocol"></span>
+			 <input type="button"  value="Force HTTPS on all subdomains"  button style="background-color:transparent" id="buttonEnforce"/><br>
+			 		<a href="options.html"  type="button" target="_blank" id="options">Options</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+			<a target="_blank" id="options"></a><a href="https://help.comodo.com/topic-120-1-279-4530-Force-Secure-Connections.html" target="_blank"> Learn More</a>
+		</form>
+		<input type="button" button style="background-color:transparent; border-color: transparent;" value="Don't Force HTTPS" id="buttonIgnore"/>&nbsp;<input type="button"  button style="background-color:transparent; border-color: transparent;" value="Done" id="done"/>
+	</div>
+</body>
+</html>

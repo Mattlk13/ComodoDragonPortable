@@ -1,0 +1,18 @@
+<%
+
+/*
+ * Template arguments:
+ * + itemClass: string, optional
+ * + itemLabel: string, mandatory
+ * + hasItems: boolean, mandatory
+ * + listClass: string, optional
+ *
+ * On IE li:hover dont work so we add an anchor inside it which handles the highlighting.
+ */
+
+%><% var itemClass, itemLabel, hasItems, listClass;
+%><li<%= itemClass ? ' class="' + itemClass + '"' : '' %>><a href="" onclick="return false;"><%= itemLabel %></a><%
+  if (hasItems) {
+  %><ul<%= listClass ? ' class="' + listClass + '"' : '' %>></ul><%
+  }
+%></li>

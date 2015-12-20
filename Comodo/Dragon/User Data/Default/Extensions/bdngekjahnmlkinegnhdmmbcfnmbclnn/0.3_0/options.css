@@ -1,0 +1,14 @@
+#notification-label {
+  display: none;
+  visibility: hidden;
+  background-color: #CCCCCC;
+  color: #000000;
+  font-size: 12pt;
+  font-family: Tahoma;
+}
+
+#option {
+  font-family: Tahoma;
+  color: #000000;
+  font-size: 12pt;
+}

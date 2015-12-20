@@ -1,0 +1,2 @@
+[1220/173219:ERROR:client_util.cc(275)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+[1220/173910:ERROR:client_util.cc(275)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded

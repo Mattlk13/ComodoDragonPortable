@@ -1,0 +1,48 @@
+/*
+
+Filename:			reset.css
+Site URL: 		http://livepcsupport.com
+Description:	Reset all styles for browser equality
+
+*/
+@charset "utf-8";
+
+html { margin-bottom: 1px; overflow-y: scroll;} /* forces scrollbar to eliminate shift on short pages */
+
+body { margin: 0; padding: 0; }
+
+p { margin: 0; padding: 0; }
+
+ol,ul { list-style: none; margin: 0; padding: 0; }
+
+div,li,dt,dd,h1,h2,h3,h4,h5,h6,form,fieldset,input,textarea,blockquote,th,td { 
+margin: 0;
+padding: 0; }
+
+h1,h2,h3,h4,h5,h6 {
+font-size: 80%;
+font-weight: normal; }
+
+address,caption,cite,code,dfn,th {
+font-style: normal;
+font-weight: normal; }
+
+fieldset,img { 
+border: 0; }
+
+table {
+border-collapse: collapse;
+border-spacing: 0; }
+
+caption,th {
+text-align: left; }
+
+q:before,q:after {
+content: ''; }
+
+abbr,acronym {
+border: 0; }
+
+a, a:active {
+outline: none;
+}

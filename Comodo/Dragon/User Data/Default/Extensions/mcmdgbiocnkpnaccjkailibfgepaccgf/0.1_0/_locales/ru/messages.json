@@ -1,0 +1,66 @@
+{
+   "addText": {
+      "description": "Add button text",
+      "message": "Добавить"
+   },
+   "deleteItems": {
+      "description": "Delete selected item(s)",
+      "message": "Вы действительно хотите удалить выбранные элементы?"
+   },
+   "extName": {
+      "description": "Comodo Share Page Service",
+      "message": "Comodo Share Page Service"
+   },
+   "imageText": {
+      "description": "Thead image column text",
+      "message": "Иконка"
+   },
+   "incorrectInput": {
+      "description": "User input incorect",
+      "message": "Введены некоректные данные"
+   },
+   "logoText": {
+      "description": "Header logo text",
+      "message": "Поделиться страницей"
+   },
+   "nameText": {
+      "description": "Thead name column text",
+      "message": "Название"
+   },
+   "optionsText": {
+      "description": "Options button text",
+      "message": "Настройки"
+   },
+   "removeText": {
+      "description": "Delete button text",
+      "message": "Удалить"
+   },
+   "reset": {
+      "description": "Reset options to default state question",
+      "message": "Вы действительно хотите сбросить настройки?"
+   },
+   "resetComplete": {
+      "description": "Reset options to default state complete",
+      "message": "Настройки сброшены"
+   },
+   "resetText": {
+      "description": "Reset button text",
+      "message": "Сбросить"
+   },
+   "save": {
+      "description": "Save user setting",
+      "message": "Настройки сохранены"
+   },
+   "saveText": {
+      "description": "Save button text",
+      "message": "Сохранить"
+   },
+   "selectionError": {
+      "description": "User selection error",
+      "message": "Элементы не выбраны"
+   },
+   "urlText": {
+      "description": "Thead URL column text",
+      "message": "Url"
+   }
+}

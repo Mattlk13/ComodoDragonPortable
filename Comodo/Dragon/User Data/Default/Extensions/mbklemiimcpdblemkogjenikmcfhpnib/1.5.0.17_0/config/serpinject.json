@@ -1,0 +1,114 @@
+{
+	"u": {
+		"v": "2.75",
+		"d": "081314"
+	},
+	"l": "http://search.adtrustmedia.com/search_safecontent.php",
+	"e": [
+		{
+			"u": "google.js",
+			"s": "#tads, #tadsb, #mbEnd",
+			"c": 2,
+			"i": 1000,
+			"p": 300,
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://www.google.com/search"
+				},
+				{
+					"t": "PAGE",
+					"v": "http://www.google.com.ua/search"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "^(www\\.)?google\\."
+				}
+			]
+		},
+		{
+			"u": "bing.js",
+			"s": ".sb_adsWv2:first-child, .sb_adsWv2.sb_adsW2v2, .sb_adsNv2, #iur",
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://www.bing.com/"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "bing\\.com"
+				}
+			]
+		},
+		{
+			"u": "ask.js",
+			"s": "#spl_img_top.grey_bb, #csaTop iframe, #spl_img_top.grey_bt, #csaBottom iframe, #magic1 iframe, #magic2 iframe",
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://www.ask.com/"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "ask\\.com"
+				}
+			]
+		},
+		{
+			"u": "about.js",
+			"s": ".gB, #ad1 iframe, #ad2 iframe",
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://www.about.com/"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "about\\.com"
+				}
+			]
+		},
+		{
+			"u": "whitepages.js",
+			"s": "#serp_bigmap_top iframe, #serp_bigmap_wide iframe",
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://www.whitepages.com/"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "whitepages\\.com"
+				}
+			]
+		},
+		{
+			"u": "yellowpages.js",
+			"s": "#google-adsense-srp-container.google-adsense-top iframe, #google-adsense-srp-container.google-adsense-bottom iframe",
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://www.yellowpages.com/"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "yellowpages\\.com"
+				}
+			]
+		},
+		{
+			"u": "mywebsearch.js",
+			"s": "#sponsoredTop, #sponsoredBottom",
+			"t": [
+				{
+					"t": "PAGE",
+					"v": "http://search.mywebsearch.com/"
+				},
+				{
+					"t": "DOMAIN",
+					"v": "mywebsearch\\.com"
+				}
+			]
+		}
+	]
+}

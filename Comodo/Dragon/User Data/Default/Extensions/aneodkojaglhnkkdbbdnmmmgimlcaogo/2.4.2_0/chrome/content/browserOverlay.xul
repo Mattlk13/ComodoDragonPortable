@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="chrome://global/skin/" ?>
+<?xml-stylesheet type="text/css" href="chrome://DnD/skin/browserOverlay.css" ?>
+
+<!DOCTYPE overlay SYSTEM "chrome://day2p2/locale/browserOverlay.dtd">
+
+<overlay id="DnD-browser-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <script type="application/x-javascript" src="resource://DnDCommonScripts/classRepository.js" />
+    <script type="application/x-javascript" src="chrome://DnD/content/scripts/classPrefs.js" />
+<script type="application/x-javascript" src="chrome://DnD/content/browserOverlay.js" />
+<stringbundleset id="stringbundleset">
+    <stringbundle id="DnD-string-bundle" src="chrome://DnD/locale/browserOverlay.properties" />
+</stringbundleset>
+
+<!--
+<menubar id="main-menubar">
+    <menu id="SSC-menu" label="SSC Menu"
+      accesskey="" insertafter="helpMenu">
+      <menupopup>
+        <menuitem id="SSC-menu-item"
+          label="SSC Properties"
+          accesskey=""
+          oncommand="SSCProperties()" />
+      </menupopup>
+    </menu>
+  </menubar>-->
+  
+</overlay>

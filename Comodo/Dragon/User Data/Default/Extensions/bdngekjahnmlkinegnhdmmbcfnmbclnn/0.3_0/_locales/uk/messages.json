@@ -1,0 +1,26 @@
+{
+   "extName": {
+      "description": "Comodo Web Inspector",
+      "message": "Comodo Web Inspector"
+   },
+   "notificationLabelText": {
+      "description": "Notification label text",
+      "message": "Параметри збережено."
+   },
+   "saveText": {
+      "description": "Save button text",
+      "message": "Зберегти"
+   },
+   "scan": {
+      "description": "Scan only",
+      "message": "Перевірити Web Inspector"
+   },
+   "scanNavigate": {
+      "description": "Scan site and navigate",
+      "message": "Перевірити Web Inspector і перейти"
+   },
+   "titleText": {
+      "description": "Page title",
+      "message": "Показувати в контекстному меню:"
+   }
+}
