@@ -12,5 +12,5 @@
 
 # Tips 提示
 * You might be prompted to install the flash extention, just follow the guide.可能需要按提示安装flash扩展。
-* XX-Net or Lantern need to be installed and started first as they're not included with this package.首先需要安装和启动XX-Net或Lantern，因为它们并不包含在本软件包中。
-* Switch between XX-Net or Lantern with SwitchyOmega (the circle icon on the top-right toolbar).使用SwitchyOmega来在XX-Net和Lantern间切换（右上角工具栏上的圆圈图标）。
+* XX-Net or Lantern need to be installed and started first as they're not included within this package.首先需要安装和启动XX-Net或Lantern，因为它们并不包含在本软件包中。
+* Switch the scenario between XX-Net or Lantern with SwitchyOmega (the circle icon on the top-right toolbar).使用SwitchyOmega来在XX-Net和Lantern间切换（右上角工具栏上的圆圈图标）。
